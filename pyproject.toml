@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "repl_python3_Hazard-Nuker"
+version = "0.1.0"
+description = ""
+authors = ["350Eithan <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tqdm = "^4.62.3"
+bs4 = "^0.0.1"
+colorama = "^0.4.4"
+psutil = "^5.8.0"
+selenium = "^3.141.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
