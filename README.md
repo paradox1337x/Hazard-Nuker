@@ -1,3 +1,6 @@
+![image](https://github.com/vast1337x/Hazard-Nuker/assets/114198896/bc0f2f7e-13f7-4921-9b38-cc5210da3e4c)
+
+
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Nuker?style=flat-square" </a>
@@ -13,7 +16,7 @@
 <a href="https://rdimo.github.io/CheatAway/">Discord</a>
 </p>
 
-#### Hazard Nuker renew by ! Mag#1337
+#### Hazard Nuker Renew By ! Mag#1337
 
 ### Features
 * ` Many options while being compact`
