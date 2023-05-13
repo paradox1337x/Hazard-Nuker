@@ -13,9 +13,7 @@
 <a href="https://rdimo.github.io/CheatAway/">Discord</a>
 </p>
 
-#### Hazard Nuker was made by
-Love ❌
-code ✅
+#### Hazard Nuker renew by ! Mag#1337
 
 ### Features
 * ` Many options while being compact`
