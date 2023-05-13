@@ -1,4 +1,3 @@
-<p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Nuker?style=flat-square" </a>
@@ -37,11 +36,6 @@ code ✅
 * ` Create Qr code that grabs their token upon scanning`
 * ` Mass report`
 * ` Webhook destroyer`
-
-<p align="center">
-&nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="HazardNukerUpdate" src="https://cdn.discordapp.com/attachments/853347983639052318/863399932240855060/unknown.png" width="45%">
-</p>
 
 #### [1] Nuke a targetted account 
 * Spam switch from light to dark mode the whole time nuking
