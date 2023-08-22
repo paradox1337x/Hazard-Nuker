@@ -1,5 +1,4 @@
-![image](https://github.com/vast1337x/Hazard-Nuker/assets/114198896/bc0f2f7e-13f7-4921-9b38-cc5210da3e4c)
-
+![image](https://github.com/vast1337x/Hazard-Nuker/assets/114198896/68698b6d-b09b-40cd-bba9-9584ed48d940)
 
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
