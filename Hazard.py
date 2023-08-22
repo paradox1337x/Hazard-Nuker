@@ -8,7 +8,6 @@ from colorama import Fore, Style, init
 
 # I know you can import the modules alot better but just got so many issues with importing * so just did this instead
 from util.plugins.common import clear, print_slow, setTitle, getheaders, THIS_VERSION
-from util.plugins.update import search_for_updates
 import util.accountNuke
 import util.dmdeleter
 import util.info
@@ -409,5 +408,4 @@ def main():
         main()
 
 if __name__ == "__main__":
-    search_for_updates()
     main()
